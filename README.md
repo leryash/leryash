@@ -1,4 +1,10 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Привет всем, я Валерия 👋</h1>
+  <h2>Аналитик данных</h2>
+</div>
+💻 Владею Python и SQL <br>
+📚 Учусь в Яндекс Практикуме <br>
+🧗‍♀️ Люблю скалолазание и точные науки
 
 <!--
 **leryash/leryash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
