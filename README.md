@@ -5,6 +5,7 @@
 
 <div id="aboutme" align="left">
   <h2>Обо мне</h2>
+  🟢 Открыта для рабочих предложений <br>
   💻 Владею Python и SQL <br>
   📚 Учусь в Яндекс Практикуме <br>
   🧗‍♀️ Люблю скалолазание и точные науки
@@ -12,6 +13,11 @@
 
 <div>
   <h2>Стек технологий</h2>
+  • Python: библиотеки: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly; платформа Jupyter Notebook <br>
+  • SQL: PostgreSQL (знание оконных функций), DBeaver <br>
+  • BI-системы: Tableau Public <br>
+  • A/B-тесты: формулировка и проверка гипотез, статистические тесты в Python <br>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="jupyter" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="SQL" width="50" height="50">
