@@ -12,7 +12,7 @@
 
 <div>
   <h2>Стек технологий</h2>
-  • Microsoft Excel (функции, массивы, массивоподобные функции, сложные визуализации, запросы, запись макросов)
+  • Microsoft Excel (функции, массивы, массивоподобные функции, сложные визуализации, запросы, запись макросов) <br>
   • Python: библиотеки: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly; платформа Jupyter Notebook <br>
   • SQL: PostgreSQL (знание оконных функций), DBeaver <br>
   • BI-системы: Tableau Public <br>
