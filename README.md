@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="jupyter" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="SQL" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="dbeaver" width="50" height="50">
-  <img src="![изображение](https://github.com/user-attachments/assets/4f419c84-88f5-44fd-bdeb-2ba7d112dc81)" title="excel" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/e1daa4c6-fe0b-448e-991c-b0da8442f470" title="excel" width="50" height="50">
 </div>
 
 <!--
